@@ -1,3 +1,9 @@
+custom:
+  security:
+    unsecuredUrls:
+      -linka
+      -link2
+      -link3
 prop: service-gatway
 server:
   port: 8050
