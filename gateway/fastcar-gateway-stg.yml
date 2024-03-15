@@ -6,7 +6,7 @@ eureka:
       defaultZone: ${EUREKA_URI:http://stg-discovery.excellencekits.com:8761/eureka}
 spring:
   application:
-    name: services-cloud-gateway
+    name: fastcar-gateway
   cloud:
     gateway:
       globalcors:
